@@ -1,0 +1,51 @@
+body{
+	font-family: Helvetica;
+}
+#ol1, #ol2{
+	float: left;
+}
+#op1, #op2, #op3{
+	float: right;
+}
+#ol1{
+	text-align: center;
+	width: 70%;
+	height: 400px;
+	background-color: Snow;
+}
+#ol2{
+	width: 70%;
+	height: 400px;
+	background-color: Snow;
+}
+#op1{
+	text-align: center;
+	width: 30%;
+	height: 150px;
+	color: white;
+	background-color:SteelBlue;
+}
+#op2{
+	width: 30%;
+	height: 350px;
+	color: white;
+	background-color:SteelBlue;
+}
+#op3{
+		background-color:Snow;
+		width: 30%;
+	    height: 300px;
+		text-align: center;
+}
+#stopka{
+	       position:absolute;
+	       bottom:0;
+	       color: white;
+	       background-color:SteelBlue;
+}
+#h2{
+	font-size: 250%;
+}
+#img{
+     padding: 4px;
+}
